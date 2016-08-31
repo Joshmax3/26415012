@@ -1,0 +1,5 @@
+8 zip -r misal.zip misal.txt
+11 unzip misal.zip
+13 gzip misal.zip
+15 bzip2 misal.zip.gz
+179 tar -cf ar.tar text1.txt coba.txt
