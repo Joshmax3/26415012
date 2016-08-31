@@ -1,0 +1,52 @@
+   49  ls
+   50  mkdir test
+   51  ls
+   52  cd test
+   53  pwd
+   54  mkdir test1
+   55  ls
+   56  rmdir test1
+   57  touch text
+   58  vim text
+   59  sudo apt install vim
+   60  nano text
+   61  cp text textcp
+   62  ls
+   63  mv text text1
+   64  ls
+   65  file
+   66  file text1
+   67  file textcp
+   68  stat textcp
+   69  lsattr textcp
+   70  chattr textcp -v
+   71  chattr textcp
+   72  chattr textcp -v
+   73  chattr -h
+   74  history
+   
+    1  ls
+    2  mkdir test
+    3  cd test
+    4  cd ...
+    5  cd ..
+    6  find text1
+    7  find test
+    8  locate text1
+    9  loacte test
+   10  locate test
+   11  history
+   
+    1  ls
+    2  mkdir test
+    3  cd test
+    4  cd ...
+    5  cd ..
+    6  find text1
+    7  find test
+    8  locate text1
+    9  loacte test
+   10  locate test
+   11  history
+
+
