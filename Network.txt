@@ -1,0 +1,13 @@
+40  nmap
+   41  sudo apt install nmap
+   42  netstats
+   43  netstat
+   44  traceroute
+   45  q
+   46  sudo apt install traceroute
+   47  ifconfig
+   48  hostname
+   49  ping
+   50  ping -c 
+   51  ping -c 5
+   52  ping -c 5 yahoo.com

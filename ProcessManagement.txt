@@ -1,0 +1,13 @@
+72  ps
+   73  pstree
+   74  top
+   75  htop
+   76  pgrep
+   77  pkill
+   78  free
+   79  vmstat
+   80  watch
+   81  watch -b
+   82  watch -c
+   83  fg
+   84  jobs

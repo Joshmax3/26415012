@@ -1,0 +1,16 @@
+ 64 echo text1 
+ 65 echo abcde 
+ 66 cat text1 
+ 67 strings text1 
+ 98 grep -i 'asdf' test 
+ 110 cut -b -10 text1.txt 
+ 113 wc -c text1.txt 
+ 114 wc -m text.txt 
+ 115 wc -m text1.txt 
+ 116 wc -l text1.txt 
+ 124 paste text1.txt coba.txt 
+ 128 sort coba.txt -b 
+ 129 cat coba.txt 
+ 130 sort coba.txt -g 
+ 134 uniq text1.txt coba.txt 
+ 140 diff -s text1.txt coba.txt

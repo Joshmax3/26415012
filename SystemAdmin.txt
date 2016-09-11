@@ -1,0 +1,6 @@
+87  sudo mkdir stuff
+89  passwd joshua
+90  who
+92  w
+   93  finger
+   94  whoami

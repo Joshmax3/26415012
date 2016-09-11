@@ -1,0 +1,11 @@
+   23  date
+   24  cal
+   25  bc
+   26  mc
+   27  sudo apt install mc
+   28  at
+   29  sudo apt install at
+   30  set
+   31  awk
+   32  reboot
+   33  history
