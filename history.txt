@@ -1,0 +1,12 @@
+99  git commit -m "ha"
+  100  git commit -m "a.txt"
+  101  git commit -m
+  102  ls
+  103  nano a.txt
+  104  git add a.txt
+  105  git commit -m "a"
+  106  git push -u origin master
+  107  nano history.txt
+  108  hsitory
+  109  history
+
