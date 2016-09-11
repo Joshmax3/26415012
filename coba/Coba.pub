@@ -1,0 +1,5 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC1RvShlSixkEsN3iV03puf9/D3DZQqdijE+/PvTib8nxQ3aj5Nnz+sxMAJREjV2di8unZPT1/eEFMZNQG6Sm1fErNdrzduEnnPxYZQ0UbOztlwZlZf78O9UmWIWhp1Tuj3B7n5/KdI1lKEydsOsi8IWWzyslOf7j+4Ck/lskJmtvZOQu+UIf1oNK0YEYXeKAEOaHEOJzWQ0MYVb9rTyoKb5dnYzpqD5jblAdjy9j1tPlcbyt/IrBpQNPyDxcCsNOFqFUHCw/kg6DWZwXH3AMn5n21blfzvGqB4IQoYD895W0qcDGTlzyImcqowKOo4N+0UxOW9Px5QUXPUmgw9BVpepUSo2jqNri/ZvpD+p40JfyBXt6BIBykvVknYWjyh59Y3xr4Tr82hxHhy61ro6qaAFsoi13SZiq9S7ww+Qy0J9CwlxZJQDatVhcI4+mgLABhcYkGF2IIZpLFAr7s1n0BYgvIkeKUb4FxjOJCknaHD9IVqBTWDVvG278W8g6aY7Zom1UVoVAjffHbMeNLbuzqxOrtGFwbPafKzzEZNKGOCzb2grTEckTWFCQqR50qMDyLHIfYvGUebyttXTfj/jqAGLyuGXJGF5nkbqhg+ZQaqd5c//NzuBLK7SUYGDEIZXGthzCUsGJGgt5j62Gm3Ynl3lIJuI9aXkPtthm+uSZDpMw== m26415012@john.petra.ac.id
+ 150  ssh keygen -t rsa -b 4096 -C "m26415012@john.petra.ac.id"
+  151  ssh-keygen -t rsa -b 4096 -C "m26415012@john.petra.ac.id"
+  152  history
+
