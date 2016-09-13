@@ -16,3 +16,6 @@
 - [ ] Tunjuk ketua kelompok dan buat repo kelompok
 - [ ] Coba Git branching di repo kelompok (kerjakan salah satu tugas UTS di bank soal sebagai proyek)
 - [ ] Lakukan semua tugas di Minggu 2 (lihat web link di LINE grup untuk tambahan perintah)
+
+###### Minggu 4
+- [ ] Buatlah program dengan *sed* atau *awk* untuk mengolah `makanan.csv` sehingga menghasilkan laporan seperti pada `output.txt`. Setelah itu, urutkan `output.txt` dengan menggunakan *sort* berdasarkan harga rata-rata.
