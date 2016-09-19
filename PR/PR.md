@@ -22,4 +22,4 @@
 
 ###### Minggu 5
 - [ ] Buatlah soal latihan dari slide TOS Power Point Lab 01 sampai Lab 05
-- [ ] Buatlah program program dengan *sed* **dan** *awk* **dan** *perl* untuk mengolah `data.csv` lalu menghitung selisih dari setiap baris dikurangi baris sebelumnya mulai dari baris data kedua sehingga menghasilkan `output_delta.csv`. Bandingkan mana yang lebih cepat dari ketiga program yang digunakan. Jika diperlukan gunakan data dengan jumlah baris yang lebih banyak.
+- [ ] Buatlah program dengan *sed* **dan** *awk* **dan** *perl* untuk mengolah `data.csv` lalu menghitung selisih dari setiap baris dikurangi baris sebelumnya mulai dari baris data kedua sehingga menghasilkan `output_delta.csv`. Bandingkan mana yang lebih cepat dari ketiga program yang digunakan. Jika diperlukan gunakan data dengan jumlah baris yang lebih banyak.
