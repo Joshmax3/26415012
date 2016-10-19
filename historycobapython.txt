@@ -1,0 +1,40 @@
+ test.py
+  422  vi test.py
+  423  python test.py arg1 arg2 arg3
+  424  vi test.py
+  425  touch test2.py
+  426  vi test2.py
+  427  test.py -h
+  428  test2.py -h
+  429  ls
+  430  test.py -i BMP -o
+  431  test2.py -i BMP -o
+  432  test2.py -i inputfile
+  433  test2.py -i
+  434  ls
+  435  rm test2.py
+  436  touch loop.py
+  437  vi loops.py
+  438  ls
+  439  rm loop.py
+  440  python loops.py
+  441  rm loops.py
+  442  vi print.py
+  443  python print.py
+  444  vi string.py
+  445  python string.py
+  446  ls
+  447  history
+  448  vi coba.txt
+  449  ls
+  450  cd ..
+  451  ls
+  452  cd Python
+  453  ls
+  454  vi loop.py
+  455  python loop.py
+  456  vi loop.py
+  457  python loop.py
+  458  history
+
+
