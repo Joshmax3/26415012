@@ -2,8 +2,8 @@
 
 choice = raw_input('A\'m i a student?')
 if choice == 'yes':
- print 'Oh Damn'
+ print 'Oh Ma Got'
 elif choice == 'no':
- print 'HELL'
+ print 'Yeah'
 else:
  print 'What??'
